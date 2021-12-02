@@ -33,7 +33,6 @@
 - Editor: VsCode
 - Shell: Zsh
 - Terminal: iTerm2
-- OS: OSX
 - PC: Macbook Air(I want M1...)
 - Keyboard: HHKB
 - Mouse: MX ERGO
