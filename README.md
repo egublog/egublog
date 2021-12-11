@@ -34,7 +34,7 @@
 - Shell: Zsh
 - Terminal: iTerm2
 - PC: Macbook Air(I want M1...)
-- Keyboard: HHKB
+- Keyboard: HHKB Type-S
 - Mouse: MX ERGO
 - SmartPhone: iPhoneXS
 
