@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=egublog" alt="egublog" />
   </a>
   <a href="http://twitter.com/egublog">
-    <img height="20" src="https://img.shields.io/twitter/follow/gurusu_program?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/egublog?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/egublog">
     <img height="20" src="https://img.shields.io/github/followers/egublog?label=follow&logo=github&style=flat" />
@@ -33,7 +33,7 @@
 - Editor: VsCode
 - Shell: Zsh
 - Terminal: iTerm2
-- PC: Macbook Air(I want M1...)
+- PC: Macbook Air
 - Keyboard: HHKB Type-S
 - Mouse: MX ERGO
 - SmartPhone: iPhoneXS
