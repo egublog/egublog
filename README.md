@@ -7,9 +7,6 @@
   <a href="http://twitter.com/egublog">
     <img height="20" src="https://img.shields.io/twitter/follow/egublog?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://github.com/egublog">
-    <img height="20" src="https://img.shields.io/github/followers/egublog?label=follow&logo=github&style=flat" />
-  </a>
 </p>
 
 <p align="left"> 
