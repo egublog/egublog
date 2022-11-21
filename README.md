@@ -26,8 +26,6 @@
 
 [![](https://raw.githubusercontent.com/egublog/egublog/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=egublog&theme=dark&hide_border=true&currStreakNum=DD2727)](https://git.io/streak-stats)
-
 #### Development Environment
 
 - Often Using Languages: PHP(Laravel)
