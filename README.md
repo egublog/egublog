@@ -27,7 +27,7 @@
 - Editor: VsCode
 - Shell: Zsh
 - Terminal: iTerm2
-- PC: Macbook Air M1
+- PC: M4 Pro Mac mini
 - Keyboard: HHKB Type-S
 - Mouse: MX ERGO
 - SmartPhone: iPhoneXS
