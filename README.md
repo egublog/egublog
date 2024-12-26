@@ -30,7 +30,7 @@
 - PC: M4 Pro Mac mini
 - Keyboard: HHKB Type-S
 - Mouse: MX ERGO
-- SmartPhone: iPhoneXS
+- SmartPhone: iPhone16
 
 #### Languages and Tools
 
