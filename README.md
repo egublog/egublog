@@ -23,7 +23,7 @@
 
 #### Development Environment
 
-- Often Using Languages: PHP(Laravel)
+- Often Using Languages: Java, React, PHP(Laravel)
 - Editor: VsCode
 - Shell: Zsh
 - Terminal: iTerm2
