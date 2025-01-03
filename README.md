@@ -4,9 +4,6 @@
   <a href="https://github.com/egublog">
     <img src="https://komarev.com/ghpvc/?username=egublog" alt="egublog" />
   </a>
-  <a href="http://x.com/egublog">
-    <img height="20" src="https://img.shields.io/twitter/follow/egublog?label=Twitter&logo=twitter&style=flat" />
-  </a>
 </p>
 
 <p align="left">
