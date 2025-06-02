@@ -21,7 +21,7 @@
 #### Development Environment
 
 - Often Using Languages: Java, React, PHP(Laravel)
-- Editor: VsCode
+- Editor: Cursor
 - Shell: Zsh
 - Terminal: iTerm2
 - PC: M4 Pro Mac mini
